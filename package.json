@@ -29,6 +29,9 @@
     },
     "dependencies": {
         "handlebars": "^4.7.7",
-        "lodash.debounce": "^4.0.8"
+        "lodash.debounce": "^4.0.8",
+        "ws": "^=6.2.2",
+        "browserslist": "^=4.16.5",
+        "postcss": "^=8.2.10"
     }
 }
